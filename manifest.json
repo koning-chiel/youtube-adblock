@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Adblock",
+  "description": "An adblocker for youtube, centered around the third-party yout-ube site.",
+  "version": "1.2",
+  "action": {
+    "default_popup": "block.html"
+  },
+  "permissions": ["activeTab"]
+}

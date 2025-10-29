@@ -4,7 +4,7 @@ This is a small Chrome extension that allows users to redirect YouTube videos to
 
 ## Installation
 
-1. Download the zip archive from the [Releases](./releases) page
+1. Download the zip archive from the releases page
 2. Open Chrome and go to: [chrome://extensions](chrome://extensions)
 3. Enable **Developer mode** with the button in the top-right corner
 4. Unpack the zip file

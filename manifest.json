@@ -2,7 +2,8 @@
   "manifest_version": 3,
   "name": "Adblock",
   "description": "An adblocker for youtube, centered around the third-party yout-ube site.",
-  "version": "1.2",
+  "version": "1.3",
+  "icons": { "48": "icon48.png" },
   "action": {
     "default_popup": "block.html"
   },
